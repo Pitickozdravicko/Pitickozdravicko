@@ -1,5 +1,5 @@
-Hi, I'm Petr, currently student of VUT FIT in Brno
-  I'm interested in working on various projects mainly in Java, Javascript and more :).
+Hi, I'm Petr, currently student of VUT FIT in Brno\n
+  I'm interested in working on various projects mainly in Java, Javascript and more :).\n
   If you are interested in working with me just let me know and we can start away.
 
 <!---
