@@ -8,13 +8,14 @@ I enjoy building all sorts of applications and products, whether it’s somethin
 ---
 
 ### What I work with
-**Web development (main focus):**  
-- TypeScript / JavaScript  
+**When making webs**  
+- React(TypeScript / JavaScript)  
 - Go  
 - PostgreSQL  
 - Redis  
 
-**Game development (for fun):**  
+**Some crazy game stuff** 
+- C#, C++, gdscript
 - Unreal Engine  
 - Godot  
 
@@ -25,6 +26,10 @@ I enjoy building all sorts of applications and products, whether it’s somethin
 - Web development: I’m interested in building meaningful applications—anything that provides real value, helps me grow, and contributes to my long-term development as a software engineer.  
 
 ---
+### Things I have, but sometimes I wish I did not
+- A little bit of insanity
+- Milions (totally accurate number ;) ) of redone/undone lines of code (because every programmer should have some)
+- Excellent skills in searching internet/webs, watching tutorials and reading docs *quite crying sounds*
 
 ### Get in touch
 If you’re interested in working with me, feel free to reach out and we can get started right away.
